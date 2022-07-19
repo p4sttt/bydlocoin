@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+h1{
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 120%;
+    text-transform: uppercase;
+    color: #000000;
+}
+h2{
+    margin: 0;
+    width: 320px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 120%;
+    color: rgba(0, 0, 0, 0.8);    
+}
+p{
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 130%;
+    color: #000000;
+    opacity: 0.8;
+}
+.spisok{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, #F1F1F1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    width: 350px;
+}
